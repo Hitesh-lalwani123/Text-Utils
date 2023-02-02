@@ -45,9 +45,8 @@ function App() {
     <>
 
       <Navbar title="Text Utils" bgToggler={bgToggler} mode={mode} />
-      {/* <Navbar title="sharms kitchen" bgToggler={bgToggler} mode={mode} /> */}
       <Alert alert={alert} />
-<Sidebar />
+      <Sidebar />
       <div className="container">
         <TextForm />
         {/* <About /> */}
