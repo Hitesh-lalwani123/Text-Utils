@@ -1,0 +1,15 @@
+.myfooter{
+    width: 100vw;
+    height: 100px;
+    background-color: rgb(61, 59, 59);
+    position: absolute;
+    top: 100%;
+    clear: left;
+
+}
+/* 
+relative
+sticky
+absolute
+
+ */
